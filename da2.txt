@@ -1,0 +1,91 @@
+ssh-keygen -t rsa -C""
+git init
+git remote add origin https://
+git add 
+git commit -m ''
+git push -u origin master
+git pull origin master
+git config --global user.name "daidaipang"
+git config --global user.email"11212121@qq.com"
+  
+ssh-keygen -t rsa -C""
+git init
+git remote add origin 
+git config --global user.name""
+git config --global user.email""
+git add 
+git commit -m''
+git status
+git push -u origin master
+git pull origin master
+
+ssh-keygen -t rsa -C ""
+git init
+git config --global user.name ""
+git config --global user.email ""
+git remote add origin 
+git add 
+git commit -m''
+git push -u origin master
+git pull origin master
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>www</title>
+</head>
+<body>
+</body>
+</html>
+
+<html>
+<head>
+<meta charset="UTF=8">
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+</body>
+</html>
+
+ssh-keygen -t rsa -C"
+git init
+git config --global user.name""
+git config --global user.email""
+git remote add origin
+git add
+git commit -m ''
+git status
+git push -u origin master
+git pull origin master
+
+
+
+
+<><><><><><><><><><><><><><><><><><><><><>><>
